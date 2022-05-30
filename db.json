@@ -1,13 +1,11 @@
 {
-  "usario": 
-   {
-  "id": 1,
-  "nome": "Rauany Jorge Esperandim",
-  "password": "dell4578",
-  "cpf":"086467589-58",
-  "genero":"Masculino"
-}
-  ,
+  "usario": {
+    "id": 1,
+    "nome": "Rauany Jorge Esperandim",
+    "password": "dell4578",
+    "cpf":"086467589-58",
+    "genero":"Masculino"
+  },
   "rede_credenciada": [],
   "faturas": []
 }
