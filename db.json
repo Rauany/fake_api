@@ -6,9 +6,8 @@
     "cpf":"086467589-58",
     "genero":"Masculino"
   },
-  "establishment": {
-    "dashboard":{
-      {
+  "establishment": [
+    {
     "status": true,
     "data": {
         "holder": {
@@ -120,7 +119,7 @@
     },
     "message": "SUCCESS"
 }
-    }
-  },
+  ]
+   
   "faturas": []
 }
