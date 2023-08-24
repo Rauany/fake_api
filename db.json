@@ -6,6 +6,14 @@
     "cpf":"086467589-58",
     "genero":"Masculino"
   },
-  "establishment": [],
+  "establishment": [
+     "usuario": {
+      "id": 1,
+      "nome": "Rauany Jorge Esperandim",
+      "password": "dell4578",
+      "cpf":"086467589-58",
+      "genero":"Masculino"
+    },
+  ],
   "faturas": []
 }
